@@ -20,13 +20,11 @@ OpenCV: For extracting faces from video frames.
 pandas: For data handling and manipulation.
 scikit-learn: For calculating cosine similarity.
 tqdm: For displaying progress bars.
+
 Install required libraries:
-
-
 pip install deepface pandas opencv-python-headless scikit-learn tqdm
 
 Optional: If you face issues with TensorFlow, you can install tf-keras:
-
 pip install tf-keras
 
 Dependencies
